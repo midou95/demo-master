@@ -1,0 +1,196 @@
+{
+    "products":[
+    {
+        "_id":"lebsa",
+        "image": "/images/lebsa1.jpg",
+        "title":" white t-shirt ",
+        "description":"summer clothes",
+        "availableSize":["S","M","L"],
+        "price": 35
+    },
+    {
+        "_id":"spiderman",
+        "image": "/images/spiderman.jpg",
+        "title":" spider-man joking",
+        "description":"hot quality",
+        "availableSize":["S","M","L"],
+        "price": 70
+    },
+    {
+        "_id":"tenu2",
+        "image": "/images/lebsa1.jpg",
+        "title":" white t-shirt ",
+        "description":"summer clothes",
+        "availableSize":["S","M","L"],
+        "price": 35
+    },
+    {
+        "_id":"dress1",
+        "image": "/images/lebsa1.jpg",
+        "title":" white t-shirt ",
+        "description":"summer clothes",
+        "availableSize":["S","M","L"],
+        "price": 35
+    },
+    {
+        "_id":"dress1",
+        "image": "/images/lebsa1.jpg",
+        "title":" white t-shirt ",
+        "description":"summer clothes",
+        "availableSize":["S","M","L"],
+        "price": 35
+    },
+    {
+        "_id":"dress1",
+        "image": "/images/lebsa1.jpg",
+        "title":" white t-shirt ",
+        "description":"summer clothes",
+        "availableSize":["S","M","L"],
+        "price": 35
+    },
+    {
+        "_id":"dress1",
+        "image": "/images/lebsa1.jpg",
+        "title":" white t-shirt ",
+        "description":"summer clothes",
+        "availableSize":["S","M","L"],
+        "price": 35
+    },
+    {
+        "_id":"dress1",
+        "image": "/images/lebsa1.jpg",
+        "title":" white t-shirt ",
+        "description":"summer clothes",
+        "availableSize":["S","M","L"],
+        "price": 35
+    },
+    {
+        "_id":"dress1",
+        "image": "/images/lebsa1.jpg",
+        "title":" white t-shirt ",
+        "description":"summer clothes",
+        "availableSize":["S","M","L"],
+        "price": 35
+    },
+    {
+        "_id":"dress1",
+        "image": "/images/lebsa1.jpg",
+        "title":" white t-shirt ",
+        "description":"summer clothes",
+        "availableSize":["S","M","L"],
+        "price": 35
+    },
+    {
+        "_id":"dress1",
+        "image": "/images/lebsa1.jpg",
+        "title":" white t-shirt ",
+        "description":"summer clothes",
+        "availableSize":["S","M","L"],
+        "price": 35
+    },
+    {
+        "_id":"dress1",
+        "image": "/images/lebsa1.jpg",
+        "title":" white t-shirt ",
+        "description":"summer clothes",
+        "availableSize":["S","M","L"],
+        "price": 35
+    },
+    {
+        "_id":"dress1",
+        "image": "/images/lebsa1.jpg",
+        "title":" white t-shirt ",
+        "description":"summer clothes",
+        "availableSize":["S","M","L"],
+        "price": 35
+    },{
+        "_id":"dress1",
+        "image": "/images/lebsa1.jpg",
+        "title":" white t-shirt ",
+        "description":"summer clothes",
+        "availableSize":["S","M","L"],
+        "price": 35
+    },
+    {
+        "_id":"dress1",
+        "image": "/images/lebsa1.jpg",
+        "title":" white t-shirt ",
+        "description":"summer clothes",
+        "availableSize":["S","M","L"],
+        "price": 35
+    },
+    {
+        "_id":"dress1",
+        "image": "/images/lebsa1.jpg",
+        "title":" white t-shirt ",
+        "description":"summer clothes",
+        "availableSize":["S","M","L"],
+        "price": 35
+    },
+    {
+        "_id":"dress1",
+        "image": "/images/lebsa1.jpg",
+        "title":" white t-shirt ",
+        "description":"summer clothes",
+        "availableSize":["S","M","L"],
+        "price": 35
+    },
+    {
+        "_id":"dress1",
+        "image": "/images/lebsa1.jpg",
+        "title":" white t-shirt ",
+        "description":"summer clothes",
+        "availableSize":["S","M","L"],
+        "price": 35
+    },
+    {
+        "_id":"dress1",
+        "image": "/images/lebsa1.jpg",
+        "title":" white t-shirt ",
+        "description":"summer clothes",
+        "availableSize":["S","M","L"],
+        "price": 35
+    },
+    {
+        "_id":"dress1",
+        "image": "/images/lebsa1.jpg",
+        "title":" white t-shirt ",
+        "description":"summer clothes",
+        "availableSize":["S","M","L"],
+        "price": 35
+    },
+    {
+        "_id":"dress1",
+        "image": "/images/lebsa1.jpg",
+        "title":" white t-shirt ",
+        "description":"summer clothes",
+        "availableSize":["S","M","L"],
+        "price": 35
+    },
+    {
+        "_id":"dress1",
+        "image": "/images/lebsa1.jpg",
+        "title":" white t-shirt ",
+        "description":"summer clothes",
+        "availableSize":["S","M","L"],
+        "price": 35
+    },
+    {
+        "_id":"dress1",
+        "image": "/images/lebsa1.jpg",
+        "title":" white t-shirt ",
+        "description":"summer clothes",
+        "availableSize":["S","M","L"],
+        "price": 35
+    },
+    {
+        "_id":"dress1",
+        "image": "/images/lebsa1.jpg",
+        "title":" white t-shirt ",
+        "description":"summer clothes",
+        "availableSize":["S","M","L"],
+        "price": 35
+    }
+    
+        ]
+    }
